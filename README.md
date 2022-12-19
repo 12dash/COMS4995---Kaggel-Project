@@ -1,4 +1,4 @@
-# COMS4995- Kaggel-Project
+# COMS4995- Kaggle-Project
 
 Team Members:
 * Ashwathy Mohan Menon (am5683)
