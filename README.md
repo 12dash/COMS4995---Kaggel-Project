@@ -10,8 +10,8 @@ This repository contains the released data and code for all the three methods li
 * Independent Probability Approach
 * CNN Multi-Head Model
 * Encoder-Decoder Architecture
-  * CNN-RNN Encoder Decoder
-  * CNN-Transformers Encoder Decoder
+  * CNN-RNN 
+  * CNN-Transformers
 
 
 
