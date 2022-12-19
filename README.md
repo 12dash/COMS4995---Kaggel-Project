@@ -22,8 +22,8 @@ This repository contains the released data and code for all the three methods li
 The data is split in 70-30 stratified ratio of train and test and can be found in the data_split folder. Each image is a 8x8 pixels. 
 
 # Folder Structure 
-* CNN Multi Head Mode  : CNN\_MultiHead\_Model.ipynb 
-* Independent Approach : 
+* CNN Multi Head Model  : CNN\_MultiHead\_Model.ipynb 
+* Independent Probability Approach : 
     * Convolution Transpose 2D : Superclass Conv2DTranspose.ipynb
     * Residual Block Like structure : Superclass Skip Connection.ipynb
     * Contrastive Learning : Superclass Contrastive.ipynb
