@@ -30,4 +30,5 @@ The data is split in 70-30 stratified ratio of train and test and can be found i
 
 # Results 
 We obtained the following results <br/>
-<img width="536" alt="Screenshot 2022-12-19 at 11 18 47 AM" src="https://user-images.githubusercontent.com/42071654/208471450-b6a9beba-f584-42d1-9e9d-2aa6dc5772bf.png">
+<img width="536" alt="Screenshot 2022-12-19 at 11 47 16 AM" src="https://user-images.githubusercontent.com/42071654/208477134-be04dbac-4e2d-4cbc-a04d-59055a31ee09.png">
+
